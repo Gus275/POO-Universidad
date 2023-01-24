@@ -1,5 +1,5 @@
 """
-    programa1
+    programa2
     nombre = gustavo salome
     fecha = 24/01/23
     descripcion = se aprenndio los errores 

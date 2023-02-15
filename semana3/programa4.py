@@ -1,3 +1,9 @@
+"""
+    programa1
+    nombre = gustavo salome
+    fecha = 30/01/23
+    descripcion = operaciones basicas
+"""
 numero1 = input ("numero1 ")
 numero2 = 10
 suma = int(numero1) + numero2 

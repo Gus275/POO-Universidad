@@ -1,4 +1,10 @@
-
+"""
+    programa1
+    nombre = gustavo salome
+    fecha = 23/01/23
+    descripcion = en este codigo se van a conocer los comentarios, 
+    multilinea y concateneacion
+"""
 n1= int(input("n1"))
 n2= int(input("n2"))
 if n2<n1:

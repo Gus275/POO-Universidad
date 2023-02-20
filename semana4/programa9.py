@@ -1,3 +1,10 @@
+"""
+    programa1
+    nombre = gustavo salome
+    fecha = 23/01/23
+    descripcion = en este codigo se van a conocer los comentarios, 
+    multilinea y concateneacion
+"""
 def mayor(numero1,numero2):
 
     if numero1>numero2:

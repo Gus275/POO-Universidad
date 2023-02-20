@@ -1,3 +1,10 @@
+"""
+    programa1
+    nombre = gustavo salome
+    fecha = 23/01/23
+    descripcion = en este codigo se van a conocer los comentarios, 
+    multilinea y concateneacion
+"""
 base = None
 altura = None
 

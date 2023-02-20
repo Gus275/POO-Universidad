@@ -3,7 +3,8 @@
  fecha:14/02/2023 
  descripcion: se conocera la funcion self. 
  """ 
- class Persona:# crea la persona 
+
+ class Persona(objeto): # crea la persona 
    def __init__(self):# se crea el tipo de letra 
           __nombre=None 
                   print("Persona")# se imprime la variable persona 

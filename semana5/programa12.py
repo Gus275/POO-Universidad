@@ -1,6 +1,6 @@
 """
     programa12
-    Nombre: Luz Amairani Martinez Monroy
+    Nombre: Gustavo Iván Salome Jimenez
     Fecha: 13/02/2023
     Descripcion: Programa que utiliza clase persona e imprime el nombre, correo y carrera
 """

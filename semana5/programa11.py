@@ -1,0 +1,3 @@
+class Persona:
+  Name= None
+  
